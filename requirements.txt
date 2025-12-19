@@ -1,6 +1,8 @@
-streamlit==1.29.0
-pandas==2.1.4
-plotly==5.18.0
+streamlit==1.34.0
+pandas==2.2.3
+plotly==5.20.0
 requests==2.31.0
-numpy==1.24.4
-ta==0.10.2
+numpy==1.26.4
+ta==0.11.0
+python-dotenv==1.0.1  # برای بارگذاری متغیرهای محیطی محلی
+bcrypt==4.1.3         # برای هش کردن امن رمز عبور
